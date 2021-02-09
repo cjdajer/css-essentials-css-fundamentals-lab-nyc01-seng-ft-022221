@@ -16,7 +16,14 @@ img{
 nav {
   text-align: center
 }
+/*image caption*/
 figcaption{
   text-align: center;
   font-size: 10px;
+}
+/*text block*/
+#featured_property p{
+  width: 800px;
+  text-align: center;
+  margin: 8px auto;
 }
