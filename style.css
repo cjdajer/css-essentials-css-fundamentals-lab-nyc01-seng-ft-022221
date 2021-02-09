@@ -14,6 +14,7 @@ img{
 }
 /*navigation link*/
 nav {
+  text-align: center
   padding: 0 10px;
   background-color: yellow;
   margin: 0 auto
